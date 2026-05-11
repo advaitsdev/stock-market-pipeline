@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stock-market-pipeline-496007",
+  "private_key_id": "9e5f6d386d16eb256f54950fdf091755ce1586bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhNDcP3GNw+dGC\nyXwU3K657ZdBsCLzGucv0rJtWUGaHjD4TaMlpwWWTSGQ7f5n/xd0RvaMPahkGgw+\nEZ+HJWo2kL6mfi7j1NGD8Was9mBpFagI7O/ZuORLRiB67diEW4iDw0WBg7jrcsq4\noeaErmjnyZguBvHR4fVNCxGpjUuGGYMP/QLplVvttCFx5kYmGbWcwVPm3+dRakQi\nJY9RVhTPXlkvRu/qVNGHmmLHRMi5VoDFOZ406S4FkCLTdhbaQFUejc5+vllTBcyy\nGBJjJbn/WqhI3CMHPU9g3hTzKrJKbnbJae12PXBFbma/Cr30Q6OloGTnd4HKN4O1\n774Qyg8pAgMBAAECggEACtRXd4BKGeMxg4AL4vbvwgoeVW7SZ21aQ672nJKHuJEO\nGsqk90kOWDlyTUVckASwzIsjDQBkChhEkXGIgde3QVN5j4kO2S7hOl6P6O5aGYOM\nlo1KRWaCN+px4mdwm4DJUkjAHWfHqy7Ud8d1TdkTO14y3re/xi9++8r1+PjN8m9N\ngMjpb2fSx/sH1nxLf7fhDoVaSMw6VlquUClbY+kQmRUVWb7MaI4/imWKFjbj+4Qn\ncObyk8NuDVqW3c0H7l2TWrn7cY+I9mPIryRRnWLFmiP1HCWiVK99Ucr92IpOmaN/\neXxJCzhEA3V1Nn6mbFlKgUh2NhklKrq8T4mSDlgJXwKBgQD90tSJMVG7wh6reMcP\nHSjO/Ggfpztz+wtHOCfzTwkBnwjiqMO4TUoYYw+pVHh25bLcW0BXMZ9ggJZXjE8X\ndKEgg4iDmMsnME6OjemNltbtunivARJSHdBwLdB7nM+bt/ClbF0tzVoTrMjjcFge\ngvI7Y1V/lLowfMZ5ZZ32NPRwMwKBgQDjIo/TAfXfTYNcbLP9uatYPHtrEUImXTvN\nH04a85oU15L13oOxMA68gIeZLdWvkzY6MxxzwQswRgKW+VdaGZbHuzOUnK5kI7YP\nEut7cJtmXyf5hABdVaPIooSClwtEZBm7Wea66EOPob8rA1OMZN9KE1f5drIq2YhZ\nse2n3FB3MwKBgCj07ySgF68zWJ2UpJI0w1P6+JY69uX1GVHJpvCkzTA8yENCtio0\nFoOu4GUTY0jUMbNK6ivnru70cM35rv167VEAyHNroURWkCaCkbAuKco8b6LVim5D\nr1Gaoux/ViSrXqJixPpSC3nnRJcmlqF9wbaBhddLWWvfhmsqUX3b96FvAoGAZjnP\n8XAYcQA59wcVm0RNUdEm2vFRjGK534APbyHkXy0G/5G+Q6kVeNGANfjjC7p91YPb\ncl2X44oe8EQYhHyv2ATxGhnKg1dvQSmKwmvUBScenrZCU7+Pj2VVrlC8yXMkAaZc\nqhKPFb3+hCVjHPTpajV6itRZK9/r9jKWe840iPECgYEAxq+yp4U9Voja61syoMTZ\nbfw8oa1N6lfIl35Ufuw1qTyWnJ3KS2SKQpfRuSF9vX3UA3qlz1uSJ26R3JaMuKdG\ng5AJYsapayuohP2bFhYz73P8ud5wyECLWuaMr8A7kSOf8wpZUPd+GzqzHGyS6h4u\n5/XthYYow/93nH4dwxiMN64=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pipeline-sa@stock-market-pipeline-496007.iam.gserviceaccount.com",
+  "client_id": "105397558806077382334",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pipeline-sa%40stock-market-pipeline-496007.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
