@@ -17,6 +17,7 @@ def transform_stock_data():
     
     # Rename date column
     df = df.rename(columns={"date, ": "date", "date,": "date"})
+    #yfinance content returns columns with trailing commas/whitespace in multi ticker mode
     df.columns = df.columns.str.strip().str.replace(",", "").str.strip()
     
     # Keep only needed columns
